@@ -19,12 +19,12 @@ It is complemented by a data pipeline.
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | [billionaiRe](https://gpw13.github.io/billionaiRe/)       | Calculate all aspects of the Triple Billions, from initial transformations to final contribution calculations |
 | [rapporteur](https://gpw13.github.io/rapporteur/)         | Facilitate reporting on the GPW13 by providing plots, excels, pdfs, etc. outpus                               |
-| [augury](https://github.com/gpw13/augury/)                | Infill and project data using a variety of models and methods                                                 |
-| [whoville](https://github.com/gpw13/whoville/)            | Utility functions to work with country codes, names, and regional classifications                             |
-| [xmart4](https://github.com/gpw13/xmart4)                 | Programmatic access to the WHO xMart4 database                                                                |
+| [augury](https://elliottmess.github.io/augury/)           | Infill and project data using a variety of models and methods                                                 |
+| [whoville](https://gpw13.github.io/whoville/)             | Utility functions to work with country codes, names, and regional classifications                             |
+| [xmart4](https://gpw13.github.io/xmart4/)                 | Programmatic access to the WHO xMart4 database                                                                |
 | [ghost](https://gpw13.github.io/ghost/)                   | Programmatic access to the WHO GHO database                                                                   |
 | [goalie](https://gpw13.github.io/goalie/)                 | Programmatic access to the UNSD SDG database                                                                  |
-| [wppdistro(private)](https://github.com/gpw13/wppdistro/) | Redistribution of WPP population data                                                                         |
+| [wppdistro (private)](https://silver-dollop-3c201d77.pages.github.io/) | Redistribution of WPP population data                                                            |
 
 ## Background
 
