@@ -24,7 +24,7 @@ It is complemented by a data pipeline.
 | [xmart4](https://gpw13.github.io/xmart4/)                 | Programmatic access to the WHO xMart4 database                                                                |
 | [ghost](https://gpw13.github.io/ghost/)                   | Programmatic access to the WHO GHO database                                                                   |
 | [goalie](https://gpw13.github.io/goalie/)                 | Programmatic access to the UNSD SDG database                                                                  |
-| [wppdistro (private)](https://silver-dollop-3c201d77.pages.github.io/) | Redistribution of WPP population data                                                            |
+| [wppdistro (private)](https://github.com/WorldHealthOrganization/wppdistro) | Redistribution of WPP population data                                                            |
 
 ## Background
 
